@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament. For the raising and securing of 42000. li. for the payment of the guards of the City of London, and for repayment of such poore persons as have voluntarily contributed any money, plate, &amp;c. upon the propositions (not exceeding the sum of 10. li.) in the yeere 1642. and are not able to double the same. As also for explanation of the former ordinance for raising of 200000. li. for the service of this kingdome and the kingdom of Ireland. Die Jovis 3. Junii, 1647. Ordered by the Lords assembled in Parliament, that this ordinance be forthwith printed and published. Jo. Brown Cler. Parliamentorum.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83231</idno>
+            <idno type="STC">Wing E2011</idno>
+            <idno type="STC">Thomason E390_22</idno>
+            <idno type="STC">ESTC R201541</idno>
+            <idno type="EEBO-CITATION">99862040</idno>
+            <idno type="PROQUEST">99862040</idno>
+            <idno type="VID">114189</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83231)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114189)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E390[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament. For the raising and securing of 42000. li. for the payment of the guards of the City of London, and for repayment of such poore persons as have voluntarily contributed any money, plate, &amp;c. upon the propositions (not exceeding the sum of 10. li.) in the yeere 1642. and are not able to double the same. As also for explanation of the former ordinance for raising of 200000. li. for the service of this kingdome and the kingdom of Ireland. Die Jovis 3. Junii, 1647. Ordered by the Lords assembled in Parliament, that this ordinance be forthwith printed and published. Jo. Brown Cler. Parliamentorum.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright at the Kings Head in the old Bayley.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Finance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114189:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:114189:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>AN ORDINANCE OF THE LORDS and COMMONS Aſſembled in PARLIAMENT.</p>
+            <p>For the raiſing and ſecuring of 42000. li. for the payment of the Guards of the City of <hi>London,</hi> and for repayment of such poore perſons as have volun<g ref="char:EOLhyphen"/>tarily contributed any Money, Plate, &amp;c. upon the Propoſitions (not exceeding the ſum of 10. li.) in the yeere 1642. and are not able to double the ſame.</p>
+            <p>As alſo for explanation of the former Ordi<g ref="char:EOLhyphen"/>nance for raiſing of 200000. li. for the ſervice of this Kingdome and the Kingdom of <hi>Ireland.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Jovis 3. Junii, 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords Aſſembled in Parliament, That this Ordinance be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>Jo. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London</hi> Printed for <hi>John Wright</hi> at the Kings Head in the old Bayley. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb facs="tcp:114189:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="1" facs="tcp:114189:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <opener>
+               <dateline>
+                  <date>Die Jovis, 3. Junii, 1647.</date>
+               </dateline>
+            </opener>
+            <head>An Ordinance of the Lords and Com<g ref="char:EOLhyphen"/>mons Aſſembled in Parliament, for the rai<g ref="char:EOLhyphen"/>ſing of forty two thouſand pounds, and for explanation of the former Ordinance for raiſing of two hundred thouſand pounds for the ſervice of this Kingdom, and the King<g ref="char:EOLhyphen"/>dom of <hi>Ireland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons aſſembled in Parliament intending to raiſe the ſumme of forty two thou<g ref="char:EOLhyphen"/>ſand pounds, for the uſes herein after expreſſed, do hereby De<g ref="char:EOLhyphen"/>clare and Ordaine, That every perſon who hath advanced any Moneyes, Plate, or Horſe, with their Furniture and Armes, or hath lent any Moneyes for or upon any the particular occaſions or ſervices, mentioned in the late Ordinance, Intituled, <hi>An Ordinance of the Lords and Commons Aſſembled in Parliament, for ſecuring of all thoſe that ſhall advance two hundred thouſand pounds for the ſervice of this Kingdome, and of the Kingdome of Ireland.</hi> That ſuch perſons may for every ſumme of Money which they ſhall further lend, for or toward the advancement of the
+<pb n="2" facs="tcp:114189:3"/>
+               <!-- PDF PAGE 3 -->aforeſaid forty two thouſand pounds, be ſecured a like ſumme more to be paid out of the Grand Ex<g ref="char:EOLhyphen"/>cize, and all other the ſeverall ſecurities given and aſſured by the ſaid late Ordinance, and in ſuch manner as is therein and thereby provided and ap<g ref="char:EOLhyphen"/>pointed, which of them ſhall firſt happen toge<g ref="char:EOLhyphen"/>ther, with the Intereſt due thereupon, after the rate of eight <hi>per cent. per ann.</hi> till Principall and Intereſt be fully diſcharged in courſe after the for<g ref="char:EOLhyphen"/>mer ingagements; for which the Grand Excize, and all other the ſaid ſeverall ſecurities now ſtand inga<g ref="char:EOLhyphen"/>ged, be fully ſatisfied and diſcharged; as for exam<g ref="char:EOLhyphen"/>ple, If there be owing to any perſon one hundred pounds Principall, which with the Intereſt there<g ref="char:EOLhyphen"/>upon for three yeares paſt, will make one hundred twenty foure pounds; he adventuring one hundred twenty foure pounds more, ſhall be ſecured, as is aforeſaid, for the whole two hundred forty eight pounds, and ſo proportionably for a greater or leſ<g ref="char:EOLhyphen"/>ſer ſumme, and according to the Intereſt due there<g ref="char:EOLhyphen"/>upon; And alſo that he ſhall be paid his Intereſt, which ſhall be then due, after the rate of eight <hi>per cent. per ann.</hi> every ſix Moneths, out of the Re<g ref="char:EOLhyphen"/>ceipt of the Grand Excize. And the ſaid Lords and Commons do hereby declare and Ordaine, That Sir <hi>John Wollaſton</hi> Knight, and Alderman of <hi>London,</hi> and the reſt of the Truſtees for the ſale of Biſhops Lands, appointed by an Ordinance of Parliament, Intituled, <hi>An Ordinance of the Lords and Commons Aſſembled in Parliament, for the leſſening of the num<g ref="char:EOLhyphen"/>ber of the Truſtees for the ſale of Bi<g ref="char:EOLhyphen"/>ſhops Lands, and the Survivors and Survivor of them.</hi> And the Heires of the Survivor of them ſhall ſtand and be ſeized
+<pb n="3" facs="tcp:114189:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 3 -->of all and ſingular the Counties Palatine, Honours, Manours, Lands, Tenements, and Hereditaments, and other the Premiſſes ſetled, and veſted in them and their Heires and Aſſignes, in and by the ſaid Ordinance, excepting as is therein excepted; and ſhall take and receive all the Rents, Revenues, Iſ<g ref="char:EOLhyphen"/>ſues, and Profits, hereafter due and payable for the Premiſſes, or any part of them, untill ſale ſhall be made of the ſame to the uſes, intents, and purpo<g ref="char:EOLhyphen"/>ſes herein after mentioned and declared, after the former ſummes lent and ſecured thereupon, or which are to be ſatisfied and paid out of the ſame, ſhall be fully ſatisfied and diſcharged; And that <hi>John Blackwell</hi> ſenior of <hi>Mortlake</hi> in the County of <hi>Surrey,</hi> Eſquire, and the reſt of the Contractors for Biſhops Lands, and <hi>William Gibbs</hi> Alderman of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and the reſt of the Treaſurers formerly appoin<g ref="char:EOLhyphen"/>ted for receiving the Moneyes which ſhall ariſe upon the ſale or proceed of Biſhops Lands; And <hi>John Fowke,</hi> Alderman of <hi>London,</hi> Comptroller, and his Deputy or Deputies, and <hi>Henry Elſynge</hi> Eſ<g ref="char:EOLhyphen"/>quire, Clerke of the Houſe of Commons, Regiſter, and his Deputy or Deputies, and Colonell <hi>Robert Manwaring,</hi> Regiſter Accomptant, ſhall continue in their ſaid ſeverall Truſts, Offices, and places re<g ref="char:EOLhyphen"/>ſpectively; and ſhall hereby have power ſeverally and reſpectively, to do all other acts and things, as in and by the ſaid firſt recited Ordinance, or any other Ordinances, Declarations, or Inſtructions of Parliament, heretofore in that behalf made, they, every, or any of them reſpectively, are authorized, di<g ref="char:EOLhyphen"/>rected, and appointed, to act or do, excepting what is otherwiſe directed in and by this preſent Ordinance,
+<pb n="4" facs="tcp:114189:4"/>
+               <!-- PDF PAGE 4 -->untill ſale ſhall be made of the Premiſſes, to the uſes, intents, and purpoſes herein after mentioned: And alſo that <hi>Iames Bunce</hi> Alderman of <hi>London,</hi> and <hi>Rich<g ref="char:EOLhyphen"/>ard Glyde,</hi> and Lieutenant Colonell <hi>Lawrence Brom<g ref="char:EOLhyphen"/>field</hi> Citizens of <hi>London</hi> ſhall be, and continue Treaſurers for the receiving and paying out of the ſaid forty two thouſand pounds hereby intended to be raiſed, which they ſhall doe at Weavers Hall in <hi>London,</hi> or any other place where they, or the major part of them ſhall thinke fit, and ſhall doe, act, and execute all other Acts and things whatſoe<g ref="char:EOLhyphen"/>ver for, or concerning the receiving and paying of the ſaid forty two thouſand pounds as fully and am<g ref="char:EOLhyphen"/>ply, and in ſuch manner reſpectively as is by the ſaid firſt recited Ordinance appointed, &amp; declared for and concerning the receiving and paying of the ſaid two hundred thouſand pounds therein mentioned; and that the aforeſaid <hi>Robert Manwairing</hi> ſhall be Re<g ref="char:EOLhyphen"/>giſter Accomptant of all, and ſingular the Accompts and Regiſtries, and doe and execute all Acts and things concerning all and ſingular the Premiſſes mentioned and contained in this preſent Ordinance reſpectively as fully and amply, and in ſuch manner and forme as is formerly ordained and appointed by the ſaid firſt recited Ordinance, or any other Or<g ref="char:EOLhyphen"/>dinances heretofore made in that behalfe reſpective<g ref="char:EOLhyphen"/>ly; Aad that the ſaid <hi>Iames Bunce,</hi> and the reſt of the Treaſurers before named, and the ſaid <hi>Robert M<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nwaring,</hi> and their reſpective Clerkes ſhall have, and receive the ſame reſpective allowances and sala<g ref="char:EOLhyphen"/>ries continued, allowed, and paid unto them re<g ref="char:EOLhyphen"/>ſpectively for this preſent Service, as in and by the former Ordinances is limited and appointed to
+<pb n="5" facs="tcp:114189:4"/>
+               <!-- PDF PAGE 4 -->them for the like reſpective ſervices therein expreſ<g ref="char:EOLhyphen"/>ſed and required; And that all perſons who have voluntarily lent any Moneyes, Plate, or Horſe with their furniture and Armes upon the Propoſitions by vertue of any Ordinance, Declaration, or Inſtructi<g ref="char:EOLhyphen"/>on of both Houſes of Parliament, ſhall have the ſame allowed in ſuch manner, and upon ſuch Cer<g ref="char:EOLhyphen"/>tificates, and ſhall have all ſuch benefits and advan<g ref="char:EOLhyphen"/>tages as in and by the ſaid late Ordinance is ex<g ref="char:EOLhyphen"/>preſſed and appointed, and that it ſhall and may be lawfull to and for every perſon, or perſons, to whom any money is owing upon the Publike Faith, or otherwiſe as is aforeſaid, or any who ſhall have any monies due to him or them by vertue of this preſent Ordinance to grant or aſſigne his or their ſaid Debts, or any part thereof to any other perſon or perſons whatſoever, and that ſuch Aſſignees ſhall have all ſuch benefits and advantages thereof, and thereup<g ref="char:EOLhyphen"/>on as in and by the ſaid firſt recited Ordinance is granted and allowed; and that every perſon and perſons, who ſhall lend any monies upon this pre<g ref="char:EOLhyphen"/>ſent Ordinance ſhall be demeaned in like manner; and ſhall have all ſuch benefits and advantages what<g ref="char:EOLhyphen"/>ſoever, by defalcation upon Purchaſes in courſe af<g ref="char:EOLhyphen"/>ter the former engagements ſhall be fully ſatisfied and diſcharged, or otherwiſe, as fully and amply and in ſuch ſort and manner as by the firſt recited Ordinance is granted and allowed: And that every perſon or perſons who ſhall wittingly and willingly produce, and bring into the Regiſter-Accomptant any forged Acquittance or Certificate, ſhall under<g ref="char:EOLhyphen"/>goe ſuch penalty as in and by the ſaid Ordinance is declared and appointed; And that every perſon or
+<pb n="6" facs="tcp:114189:5"/>
+               <!-- PDF PAGE 5 -->perſons who ſhall have his Ticket allowed, and en<g ref="char:EOLhyphen"/>tered by the Regiſter Accomptant in his Booke, and ſhall not bring in his money thereupon accor<g ref="char:EOLhyphen"/>ding to this preſent Ordinance within eight dayes after ſuch entry, to the Treaſurers hereby appoin<g ref="char:EOLhyphen"/>ted for the ſame, ſhall undergoe ſuch penalty as in and by the ſaid Ordinance is declared and appointed; And the ſaid Lords and Commons doe hereby de<g ref="char:EOLhyphen"/>clare, ordaine, and appoint, that the ſaid Treaſu<g ref="char:EOLhyphen"/>rers ſhall pay twelve thouſand pounds, part of the ſaid forty two thouſand pounds to be advanced up<g ref="char:EOLhyphen"/>on this Ordinance unto the Committee of the <hi>Mi<g ref="char:EOLhyphen"/>litia</hi> of the City of <hi>London,</hi> or ſuch as they or any nine of them ſhall appoint to be diſpoſed by the ſaid Committee, or any nine of them for and toward the paying of the Arreares already due for the Guards of the ſaid City, or which ſhall hereafter become due for the ſame, and ſuch other requiſite charges asmay concerne the ſame; And that the Warrant of the ſaid Committee, or any nine of them in writing under their hands to the ſaid Treaſurers for the payment of the ſaid forty two thouſand pounds, or any part thereof, ſhall be a ſufficient diſcharge to the ſaid Treaſurers for the ſame, and that thirty thou<g ref="char:EOLhyphen"/>ſand pounds being the reſidue of the ſaid forty two thouſand pounds, ſhall be paid to ſuch poore perſons as have voluntarily contributed any Monies, Plate, or Horſe with their furniture and Armes upon the Propoſitions in the yeare 1642. and are not able to double the ſame, not exceeding the ſumme of tenne pounds, to any one ſuch poore perſon in ſuch manner as ſhall be hereafter dire<g ref="char:EOLhyphen"/>cted &amp; appointed by both Houſes of Parliament;
+<pb n="7" facs="tcp:114189:5"/>
+               <!-- PDF PAGE 5 -->And that the Warrant of ſuch who ſhalbe thereunto here<g ref="char:EOLhyphen"/>after appoynted by both Houses of Parliament, in wri<g ref="char:EOLhyphen"/>ting under their hands, ſhall be a ſufficient diſcharge to the ſaid Treaſurers for the ſame. And the ſaid Lords and Commons doe hereby Declare and Ordaine, That the ſaid fortie two thouſand pounds ſhall not be diſpoſed or im<g ref="char:EOLhyphen"/>ployed, nor payd out by the ſaid Treaſurers to any other uſes or purpoſes then ſuch as is herein before limited and appoynted. And be it further Declared and Ordained, That the ſaid Treaſurers ſhall receive all ſummes of Mo<g ref="char:EOLhyphen"/>ney due and payable out of any the ſecurities aforeſaid, from the hands of the Treaſurers there already appoynted, or who hereafter ſhall be appoynted, and as they ſhall re<g ref="char:EOLhyphen"/>ceive the ſame (deducting charges and allowances) ſhall a<g ref="char:EOLhyphen"/>gaine pay out, and divide ſuch Moneys to the Lenders by one fourth part of their whole debt that ſhall be owing to them, in courſe as they did pay in their Money, with the intereſt then due; and ſo from time to time till the whole be payd: And that the ſaid Treaſurers ſhall keep true and perfect Accompts of all Receipts, Disburſements, and Payments, of or concerning the ſaid fortie two thouſand pounds, and ſhall give in their Accompts to the Com<g ref="char:EOLhyphen"/>mittee for taking the Accompts of the whole Kingdome for the time being; who are hereby required to take the ſame every ſix moneths, and thereupon to give diſcharges to the ſaid Treaſurers; And after ſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch diſcharges, the ſaid Treaſurers ſhall not be further queſtioned for or con<g ref="char:EOLhyphen"/>cerning any of the matters for which they have had &amp; recei<g ref="char:EOLhyphen"/>ved ſuch diſcharges: And the Commiſſioners of the Grand Exciſe, are hereby required and authorized, to pay unto the ſaid Treaſurers every ſix moneths all ſuch intereſt as ſhall be then due for any ſumme or ſummes of Money lent upon this Ordinance, upon their Certificate thereof
+<pb n="8" facs="tcp:114189:6"/>
+               <!-- PDF PAGE 6 -->in Writing, in ſuch manner as is expreſſed and appoynted in the ſaid firſt recited Ordinance, concerning the intereſt due or to be due according to the ſaid Ordinance; And that the ſaid Commiſſioners of Exciſe, and the reſpective Treaſurers of any the Treaſuries, or Receipts hereby in<g ref="char:EOLhyphen"/>gaged for the ſecurities aforeſaid, ſhall reſpectively from time to time pay unto the Treaſurers hereby appoynted for that purpoſe, all and every ſumme or ſummes of Mo<g ref="char:EOLhyphen"/>ney due and payable by this preſent Ordinance, which ſhall come to and be in their ſaid Treaſuries or Receipts in courſe as is aforeſaid; And the Receipts of the ſaid Treaſurers hereby appoynted, or any two of them, ſhall be a ſufficient diſcharge to the ſaid Commiſſioners of Ex<g ref="char:EOLhyphen"/>ciſe, and the Treaſurers of the ſaid ſeverall Treaſuries, and Receipts reſpectively; And be it further Ordained, That no Grant or Aſſignment, hereafter to be made upon the Receipts of the Grand Exciſe, or any of the aforeſaid ſecurities, ſhall precede this preſent Ordinance, whereof the ſaid Commiſſioners and reſpective Treaſurers are to take notice accordingly: And it is further Ordained, That the Exciſe and new Impoſt, mentioned in the Ordinance of the eleventh of <hi>September,</hi> 1643. or any Ordinance or Or<g ref="char:EOLhyphen"/>dinances of this preſent Parliament, made in explanation or continuance thereof, ſhall be continued, taken, and put in due execution, untill ſuch time as all ſummes of Money payable by vertue of this preſent Ordinance ſhall be payd and ſatisfied. And it is alſo Ordained, That this preſent Ordinance, and every Article, Clauſe, and thing therein contained ſhall be pleadable, and may be given in evidence in any of His Majeſties Courts of Juſtice, or other Courts; And the Judges of the ſaid Courts are hereby required, to allow and admit thereof accordingly. Provided alwayes, That all ſuch ſummes of Money as ſhall be lent upon this
+<pb n="9" facs="tcp:114189:6"/>
+               <!-- PDF PAGE 6 -->preſent Ordinance with the reſpective Tickets or Re<g ref="char:EOLhyphen"/>ceipts of Money formerly lent, as is aforeſaid, which ſhall bee thereby doubled, ſhall bee ſecured as is a<g ref="char:EOLhyphen"/>foreſaid, although the full ſumme of forty two thou<g ref="char:EOLhyphen"/>ſand pounds ſhall not bee advanced (as is intended.) And for a further explanation, and better putting in exe<g ref="char:EOLhyphen"/>cution aſwell of the aforeſaid late Ordinance, as of this preſent Ordinance, The ſaid Lords and Commons do hereby Declare, and Ordaine, that the ſaid <hi>Iames Bunce</hi> Alderman, and the reſt of the Treaſurers, or any two of them, are hereby authorized, and required to give Receipts to the Parties who have lent, or ſhall lend any money to<g ref="char:EOLhyphen"/>ward the raiſing of the aforeſaid two hundred thouſand pounds, or the ſaid forty two thouſand pounds, both for the ſumme or ſummes now lent, or to be lent in ready money, and the like former ſumme or ſummes due up<g ref="char:EOLhyphen"/>on the Publique Faith, or otherwiſe, according to the ſaid Ordinances, and aſcertained by the ſaid <hi>Robert Man<g ref="char:EOLhyphen"/>waring,</hi> which are or ſhall bee doubled by them; Which Receipts given by the ſaid Treaſurers, or any two of them, for the ſaid two hundred thouſand pounds, and ſuch Re<g ref="char:EOLhyphen"/>ceipts as are to bee given for the ſaid forty two thouſand pounds, ſhall bee a ſufficient ground to ſuch perſons to whom the ſame are, or ſhall be given, their Executors, Adminiſtrators, and Aſſignes to require, and receive the ſame. And alſo that the ſaid Treaſurers hall pay unto the ſaid Lenders in courſe every ſix Moneths, the Intereſt which ſhall be then due by the ſaid Ordinance, or this pre<g ref="char:EOLhyphen"/>ſent Ordinance, after the aforeſaid rate of Eight <hi>per Cent,</hi> out of ſuch moneyes as they ſhall then have received. And further, that the ſaid Treaſurers, or any of them ſhall have free Liberty and Power from time to time, as occaſion ſhall require, to peruſe and examine the Books of Receipts
+<pb n="10" facs="tcp:114189:7"/>
+               <!-- PDF PAGE 7 -->and Disburſements of the ſeverall Treaſurers and Com<g ref="char:EOLhyphen"/>miſſioners of the ſaid Treaſuries, and Receipts ingaged for the ſecurity aforeſaid, to the end that they may ſee, and find out, what ſumme and ſummes of money are, or ſhall bee come into the ſaid Treaſuries and Receipts, towards the repayment of the moneyes which are or ſhall be due, and payable by the ſaid Ordinances. And the Treaſurers and Commiſſioners of the ſaid Treaſuries and Receipts, ingaged for the ſecurity aforeſaid, are hereby required to ſhew unto them their ſaid ſeverall Bookes of Receipts and Disburſements, and to ſuffer them to peruſe and examine the ſame; And ſhall alſo from time to time pay unto them ſuch moneyes due and payable by the ſaid Ordinan<g ref="char:EOLhyphen"/>ces which ſhall bee then received, and come into their ſaid Treaſuries &amp; Receipts for the repayment of the Prin<g ref="char:EOLhyphen"/>cipall, and Intereſt of the ſummes due by the ſaid Ordi<g ref="char:EOLhyphen"/>nances. And laſtly, be it Declared and Ordained that the Committee of Lords and Commons formerly appointed for the allowing of incident Charges to the former Trea<g ref="char:EOLhyphen"/>ſurers appointed by the Ordinance for the ſale of Biſhops Lands, or any five of them, ſhall have power and authority to allow the like incident charges to the ſaid <hi>Iames Bunce,</hi> and the reſt of the Treaſurers reſpectively.</p>
+            <p>Provided alwayes that the aforeſaid ſummes of ten pounds, or under, intended for the repaiment of poor per<g ref="char:EOLhyphen"/>ſons ſhall be paid onely to ſuch poor perſons, or for their proper uſe and benefit, and not to any perſons who have bought, or ſhall buy of them any ſuch Tickets or Receipts as if aforeſaid.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
